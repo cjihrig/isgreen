@@ -1,0 +1,19 @@
+{
+  "name": "isgreen",
+  "version": "1.0.0",
+  "description": "Check if your io.js installation is up to date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjihrig/isgreen"
+  },
+  "author": "Colin J. Ihrig <cjihrig@gmail.com> (http://www.cjihrig.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cjihrig/isgreen/issues"
+  },
+  "homepage": "https://github.com/cjihrig/isgreen"
+}
