@@ -12,6 +12,5 @@ isGreen(function(err, result) {
   }
 
   console.log(result); // result is a Boolean
-}
 });
 ```
